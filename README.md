@@ -23,6 +23,8 @@
 
 [O que não funciona](#o-que-não-funciona)
 
+[Importante](#importante)
+
 [Licença](#licença)
 
 <br>
@@ -78,7 +80,7 @@ Você pode usar um adaptador para HDMI
 
 <br/>
 
-## Nota 2 !!!:
+## Importante:
 
 Use GenSMBIOS para gerar um número de série.
 
