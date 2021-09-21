@@ -17,7 +17,7 @@
 
 ## Tópicos 
 
-[Detalhes do Sistema](#sobre-o-sistema)
+[Detalhes do Sistema](#detalhes-do-sistema)
 
 [O que funciona](#o-que-funciona)
 
@@ -26,8 +26,6 @@
 [Licença](#licença)
 
 <br>
-
-##
 
 ## Detalhes do Sistema
 
@@ -93,7 +91,7 @@ Use GenSMBIOS para gerar um número de série.
     <img alt="License" src="https://img.shields.io/badge/License-BSD%203--Clause-blue.svg">
   </a>
 
-<br>ß
+<br>
 
 Esse projeto está sob a licença BSD-3-Clause. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
